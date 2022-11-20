@@ -6,6 +6,8 @@ Technology: Artificial Intelligence
 
 Team ID: PNT2022TMID26875
 
+Department of INFORMATION TECHNOLOGY
+
 Team Leader: APPURAJ B
 
 Team Members: PRATHIPRAJAN J , NASMITHA P , YOGAPRIYA V
