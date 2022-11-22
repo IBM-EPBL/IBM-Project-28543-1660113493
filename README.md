@@ -71,6 +71,8 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 
 **Services Used:**
 - IBM Watson Assistant
+![chatbot_ai_machine-learning_emerging-tech-100778305-orig-1](https://user-images.githubusercontent.com/114397338/203239609-ffe6b15a-8253-4a0a-b325-c079fabbe317.jpg)
+
 
 
 ## Support
