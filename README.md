@@ -12,7 +12,7 @@ Team Leader: APPURAJ B
 
 Team Members: PRATHIPRAJAN J , NASMITHA P , YOGAPRIYA V
 
-Demo Link: 👉https://drive.google.com/file/d/1D_qq5Sb9k1VXEe1G2c0yQ7hHCuPB923r/view?usp=drivesdk👈
+
 
 ### Tasks
 
@@ -43,7 +43,7 @@ Demo Link: 👉https://drive.google.com/file/d/1D_qq5Sb9k1VXEe1G2c0yQ7hHCuPB923r
   - Final Deliverables
     - [x] Source Code
     - [x] Project Document
-    - [x] Project Demo Video
+   
     
 ### Assignments
 
