@@ -73,5 +73,10 @@ In this project, we will be building a chatbot using Watson's assistant. This ch
 - IBM Watson Assistant
 
 
-**Technical Architecture:**
+## Support
+
+For support, please reach out to us at email appurajb.it2019@dscet.ac.in |
+
+**********|**| 🎓 Dhanalakshmi srinivasan College Of Engineering And Technology |**|**********
+
 
